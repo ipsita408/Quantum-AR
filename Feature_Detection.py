@@ -1,4 +1,4 @@
-#Created by : Madhumitha Kolkar 2024
+
 
 import cv2
 import numpy as np
